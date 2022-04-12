@@ -1,12 +1,12 @@
 1)
 
-Contraintes : 
+Constraints : 
 -    Prevent loosing Data. All data need to be analysed afterward.
 -    99% of the data can be processed slowly and 1% MUST be processed quickly.
 -    Scalable storage, easily extendable.
 
 So what kind of component(s) (listed in the lecture) will the architecture need?
 
-    Composants:
+Components:
 -    No-SQL / Distributed storage with « partition tolerance »
 -    Key/Document database for data compression
