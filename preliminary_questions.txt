@@ -10,3 +10,11 @@ So what kind of component(s) (listed in the lecture) will the architecture need?
 Components:
 -    No-SQL / Distributed storage with « partition tolerance »
 -    Key/Document database for data compression
+
+2)
+
+Constraints :
+-    Detect agitated citizens and trigger alert as quickly as possible.
+
+Components :
+-    Using Stream to accelerate the detection phase.
